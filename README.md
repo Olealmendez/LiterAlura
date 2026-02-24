@@ -14,6 +14,7 @@ El sistema cuenta con un menú interactivo que ofrece las siguientes opciones:
 5. **Listar libros por idioma:** Permite buscar en la base de datos local los libros según su idioma (ej. `es`, `en`, `fr`).
 
 **Funcionalidades Extra (Opcionales implementadas):**
+
 6. **Top 10 libros más descargados:** Muestra un ranking de los libros más populares almacenados en la base de datos.
 7. **Buscar autor por nombre:** Permite localizar a un autor específico registrado en la base de datos.
 8. **Estadísticas de descargas:** Genera estadísticas generales (promedio, máximo y mínimo) de descargas de los libros registrados.
